@@ -1,0 +1,8 @@
+1 Find all the artists for a given genre
+2 Find the playlist with the most/least (use group by and count)
+3 Find the total for a given invoice (use sum agregate)
+4 Find all the playlists containing a given genre
+5 Find the biggest/smallest invoice amounts (use group by)
+6 Find the artist with the most/least songs(use group by)
+7 Find the artist with the most songs
+
